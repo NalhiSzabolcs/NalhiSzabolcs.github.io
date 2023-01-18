@@ -32,3 +32,33 @@ body{
 li{
     color: wheat;
 }
+
+#1{
+    color: magenta;
+}
+#2{
+    color: rgb(0, 255, 255);
+}
+
+#3{
+    color: bisque;
+}
+#4{
+    background-color: blueviolet;
+}
+#5{
+    color: brown;
+    width: 10px;
+    height: 10px;
+    background-color: indigo;
+    float: right;
+
+}
+
+#6{
+ color: tomato;
+}
+#7{border: rgb(255, 251, 0);}
+#8{color: darkred;}
+#9{box-shadow: aqua ,1px;}
+#10{ color: #000;}
