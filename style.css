@@ -62,3 +62,7 @@ li{
 #8{color: darkred;}
 #9{box-shadow: aqua ,1px;}
 #10{ color: #000;}
+#smile:hover{
+    background-color: crimson;
+
+}
